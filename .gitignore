@@ -1,0 +1,13 @@
+# Arquivos compilados do Python (pycache)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+.env/
